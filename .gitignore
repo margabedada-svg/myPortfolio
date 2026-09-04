@@ -24,3 +24,7 @@ dist-ssr
 *.sw?
 .env
 .env.local
+# Build and deployment output
+.output/
+.vercel/
+.wrangler/
