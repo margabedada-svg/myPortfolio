@@ -82,7 +82,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "author", content: "Aurelia Studio" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { title: "Aurelia Studio — Luxury Design & Development Portfolio" },
+      { title: "Marga | Developer" },
       { property: "og:title", content: "Aurelia Studio — Luxury Design & Development Portfolio" },
       { name: "twitter:title", content: "Aurelia Studio — Luxury Design & Development Portfolio" },
       { name: "description", content: "Portfolio of a designer-developer crafting refined, high-end digital experiences for premium brands." },
